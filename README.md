@@ -1,3 +1,10 @@
+# Bridget Custom
+This repo has my custom stl files for Flatbox rev4 PCB's, modified from SGF Devices repo.
+
+files https://github.com/JeffreyThiessen/Bridget/tree/main/v2_custom
+
+read [v2_custom/v2_custom.md](https://github.com/JeffreyThiessen/Bridget/blob/main/v2_custom/v2_custom.md) for details
+
 # Bridget
 3D Printable Files for SGF Bridget controller. The case is a modified version of the Flatbox rev4 by jfedor (https://github.com/jfedor2/flatbox). The buttons are a modified version of the Egg On Rice buttons by b1nc (https://github.com/b1nc/Egg-On-Rice-Controller). It is designed to fit a Flatbox rev4 PCB without modification.  
   
