@@ -4,7 +4,7 @@ There are 2 versions of the custom buttons, with and without bevel. btn4 is for 
 
 top_hole_btn_fragment.stl is included for if you want to modify the regular v2 case with the round top button design without the custom button shapes.
 
-For multicolour prints with cutouts, add pauses in your slicer settings after layer 2 and layer 4 to switch filaments back and forth.
+For multicolour prints with cutouts, add pauses in your slicer settings after layer 2 and layer 5 to switch filaments back and forth. Have at least 3 layers of colour 2 for better results.
 
 example: ![image](https://github.com/JeffreyThiessen/Bridget/assets/16961365/f2fc936f-fd6f-4571-83c6-9e83a6fa2967)
 
