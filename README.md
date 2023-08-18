@@ -1,6 +1,8 @@
 # Bridget Custom
 This repo has my custom stl files for Flatbox rev4 PCB's, modified from SGF Devices repo.
 
+![finished](https://github.com/JeffreyThiessen/Bridget/assets/16961365/db119291-566b-4dfb-9aa6-6bdb3f1f7070)
+
 files https://github.com/JeffreyThiessen/Bridget/tree/main/v2_custom
 
 read [v2_custom/v2_custom.md](https://github.com/JeffreyThiessen/Bridget/blob/main/v2_custom/v2_custom.md) for details
